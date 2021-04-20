@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+C:\Users\SANTANU\source\repos\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\Users\SANTANU\source\repos\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+C:\Users\SANTANU\source\repos\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\SANTANU\source\repos\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\SANTANU\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\SANTANU\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\SANTANU\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache
